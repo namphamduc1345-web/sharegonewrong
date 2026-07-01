@@ -1,4 +1,1 @@
 k4li-share-key
-
-# debug flag part
-really_thought_it_
